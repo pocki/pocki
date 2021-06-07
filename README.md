@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Twitter: pocki_c](https://img.shields.io/twitter/follow/pocki_c?style=social)](https://twitter.com/pocki_c)
+[![GitHub pocki](https://img.shields.io/github/followers/pocki?label=follow&style=social)](https://github.com/pocki)
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pocki&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
+</p>
 <!--
 **pocki/pocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
