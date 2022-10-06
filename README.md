@@ -12,8 +12,6 @@
 
 [![Wakapi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pocki&api_domain=wakapi.srv.pock-programming.net&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Weekly%20Stats&layout=compact)](https://github.com/muety/wakapi)
 
-![](https://github-readme-stats.vercel.app/api/?username=pocki&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
-
 ## 👨‍💻 About me
 * 📍 I'm based in Austria
 * 🔬 I'm passionate about software, science and bees
